@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+        <include
+            android:id="@+id/toolbar"
+            layout="@layout/toolbar"/>
+
+        <View
+            android:id="@+id/shadow"
+            android:layout_width="match_parent"
+            android:layout_height="3dp"
+            android:background="@drawable/toolbar_dropshadow"
+            android:layout_below="@id/toolbar"/>
+        <include
+            android:id="@+id/main_content"
+            layout="@layout/content_main"
+            android:layout_below="@id/shadow"
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:layout_above="@id/bottom_bar"
+            />
+
+        <View
+            android:id="@+id/shadow_bottom"
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:rotation="180"
+            android:background="@drawable/toolbar_dropshadow"
+            android:layout_above="@id/bottom_bar"/>
+
+        <com.ittianyu.bottomnavigationviewex.BottomNavigationViewEx
+            android:id="@+id/bottom_bar"
+            style="@style/bnve_white_bg"
+            app:itemTextColor="@color/selector_beranda"
+            app:itemIconTint="@color/selector_beranda"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="0dp"
+            app:menu="@menu/navigation_menu" />
+
+
+
+</RelativeLayout>

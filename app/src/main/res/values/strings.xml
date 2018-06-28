@@ -1,0 +1,114 @@
+<resources>
+    <string name="app_name">Baitulmal FKAM</string>
+    <string name="home">Home</string>
+    <string name="majalah">Majalah</string>
+    <string name="donasi">Donasi</string>
+    <string name="layanan">Layanan</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_udin">ActivityUdin</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_daer">DaerActivity</string>
+    <string name="program">Program</string>
+
+    <string name="dhuafa_smart">
+        Kemiskinan begitu lekat dengan kepapaan, ketidakberdayaan dan kelemahan. Dan kemiskinan masih menjadi masalah utama bangsa ini. Kita harus meyakini bahwa persoalan kemiskinan itu bisa diminimalisir. Tidak hanya sekedar tekad yang kuat, namun diperlukan pula sinergi dan kerja sama  seluruh komponen bangsa untuk mengatasinya.
+        
+        Meminimalisasi kemiskinan bukan hanya tugas pemerintah atau lembaga amil zakat saja, namun hal ini menjadi tugas bersama kita semua sebagai komponen bangsa.
+        
+        <strong>Program Dhuafa Smart</strong> adalah Program pemberdayaan masyarakat yang bersifat transparan, selektif, kreatif dan produktif. Tujuannya menjadikan kaum dhuafa lebih sejahtera, mandiri dan bermartabat. Selain itu juga untyuk memastikan dana yang dihimpun Baitulmal FKAM dapat tersalurkan dengan tepat sasaran dan berdampak nyata, bukan sekedar tersampaikan kepada mustahik saja.
+        <blockquote>Potensi penghimpunan zakat infaq dan shadaqah (ZIS) yang dimiliki kaum muslimin di Indonesia sangatlah besar. Dana ZIS yang terhimpun di Baitulmal FKAM dikelola dengan baik, transparan, dan akuntabel. Sehingga program Dhuafa Smart ini bisa menjadi solusi alternatif dalam pengentasan kemiskinan, memberdayakan dan membangun serta meningkatkan kualitas umat.</blockquote>
+        <strong>Program Dhuafa Smart</strong> adalah Program pemberdayaan kaum dhuafa yang mengintegrasikan aspek spiritual, sosial, entrepreneur dan ekonomi produktif yang pendanaan utamanya bersumber dari donasi masyarakat baik berupa zakat infaq maupun sedekah dalam rangka meningkatkan kesejahteraan, kemandirian dan martabat kehidupan kaum dhuafa. Tujuan yang lainnya adalah membangun kesadaran masyarakat untuk peduli sesama, terkhusus terhadap kaum dhuafa yang tentu saja sangat membutuhkan perhatian dan kepedulian para muzakki dan muhsinin.
+        <blockquote>Program Dhuafa SMART ini meliputi:
+        1. Penggalian potensi dan menyelenggarakan pelatihan kewirausahaan
+        2. Pengadaan training motivasi dan mengubah mindset
+        3. Bantuan modal usaha serta sarana dan prasarannya
+        4. Pembinaan dan pemberian bimbingan rutin</blockquote>
+        <strong>Baitulmal FKAM</strong> merupakan lembaga nirlaba yang resmi dan legal, serta telah mendapatkan pengukuhan dari Kementerian Agama Republik Indonesia melalui Surat Keputusan Nomor DJ.III/392 Tahun 2016 sebagai Lembaga Amil Zakat.
+        
+        Kami mengajak segenap komponen masyarakat untuk bersama mewujudkan kesejahteraan dan kemandirian kaum dhuafa, dengan penuh semangat kebersamaan berbagi dan peduli sesama.
+    </string>
+
+    <string name="yatim_smart">
+        Rasulullah SAW memberikan perhatian yang sangat besar kepada anak yatim. Beliau SAW bersabda, “Aku dan pengasuh anak yatim (kelak) di surga seperti dua jari ini.” (Rasulullah SAW menunjuk jari telunjuk dan jari tengah dan merapatkan keduanya.) Demikianlah jaminan Rosulullah SAW bagi mereka yang mau memperhatikan kehidupan anak yatim, peduli terhadap kesulitan yang mereka hadapi, dan memberikan kebahagiaan bagi mereka. Jaminan tersebut adalah surga bersama dengan Rasulullah SAW.
+
+<strong>Program Yatim Smart</strong> merupakan program pemberdayaan anak yatim berbasis masjid. Program Yatim SMART ini diadakan untuk membantu pendidikan, kesehatan, psikis, fisik, skill dan tumbuh kembang anak yatim. Kegiatan dengan anak yatim yang berbasis masjid ini meliputi:
+<ol>
+ 	<li>Menginisiasi, mengedukasi, dan mengkordinir kepedulian masyarakat terhadap anak yatim.</li>
+ 	<li>Bersama takmir masjid membentuk tim peduli yatim.</li>
+ 	<li>Bea siswa pendidikan.</li>
+ 	<li>Bantuan biaya kesehatan.</li>
+ 	<li>Peningkatan life skill.</li>
+ 	<li>Mengadakan pembinaan dan bimbingan rutin.</li>
+ 	<li>Mengadakan monitoring dan evaluasi berkala.</li>
+</ol>
+<strong>Baitulmal FKAM</strong> merupakan lembaga nirlaba yang resmi dan legal, serta telah mendapatkan pengukuhan dari Kementerian Agama Republik Indonesia melalui Surat Keputusan Nomor DJ.III/392 Tahun 2016 sebagai Lembaga Amil Zakat.
+
+Kami mengajak segenap komponen masyarakat untuk bersama mewujudkan kesejahteraan dan kemandirian anak yatim, dengan penuh semangat kebersamaan berbagi dan peduli sesama.
+    </string>
+
+    <string name="muslim_medical">
+        
+        Kesehatan merupakan kebutuhan yang sangat mahal. Ketika seseorang sakit, maka semua harta rela dikorbankan asalkan ia dapat kembali sehat. Jika ia mampu, bisa saja ia menempuh pengobatan yang mahal. Akan tetapi, ternyata masih banyak dijumpai fakir miskin yang tisak bisa berobat karena mahalnya biaya pengobatan.
+
+Mengingat kondisi demikian, BaitulMal FKAM tergerak untuk memberikan pelayanan kesehatan bagi masyarakat secara umum. Program ini meliputi:
+<ol>
+ 	<li><b>Pengobatan gratis</b>,<b> </b>bertujuan untuk memberikan pelayanan pengobatan secara gratis, terutama bagi fakir miskin.</li>
+ 	<li><b>Khitanan masal</b>,<b> </b>bertujuan membantu masyarakat dalam menghidupkan sunnah Rasulullah Saw yakni khitan, yang ditujukan bagi mereka yang berminat dan diutamakan bagi masyarakat yang kurang mampu.</li>
+ 	<li><b>Taman gizi balita</b>,<b> </b>bertujuan<b> </b>memberikan suplemen gizi untuk balita bagi masyarakat yang kurang mampu karena mengingat biaya hidup yang semakin mahal.</li>
+ 	<li><b>Ambulan gratis</b>,<b> </b>bertujuan untuk memberikan pelayanan mobil ambulan bagi masyarakat kurang mampu.</li>
+ 	<li><b>Santunan persalinan</b>,<b> </b>bertujuan<b> </b>untuk meringankan biaya persalinan bagi masyarakat yang kurang mampu.</li>
+</ol>
+<strong>Baitulmal FKAM</strong> merupakan lembaga nirlaba yang resmi dan legal, serta telah mendapatkan pengukuhan dari Kementerian Agama Republik Indonesia melalui Surat Keputusan Nomor DJ.III/392 Tahun 2016 sebagai Lembaga Amil Zakat.
+
+Kami mengajak segenap komponen masyarakat untuk bersama mewujudkan kesejahteraan dan pelayanan kesehatan masyarakat, dengan penuh semangat kebersamaan berbagi dan peduli sesama.
+
+    </string>
+
+    <string name="dakwah_pendidikan">
+        Selain merupakan kewajiban syar’i, dakwah juga merupakan kebutuhan masyarakat. Karena dengan dakwah, masyarakat mampu memahami nilai-nilai ajaran Islam melalui sentuhan lembut para da’i yang bijak, para penunjuk jalan yang tegar, dan para mubaligh yang sabar sehingga mampu mengaplikasikan ajaran mulia tersebut. Dakwah merupakan muara segala kebaikan, benteng penangkal siksa, dan sarana menghantarkan doa para hamba kepada Rabbnya.
+
+BaitulMal FKAM ikut ambil bagian dalam pengembangan dakwah Islam ini melalui program:
+<ol>
+ 	<li><b>PDM (Praktek Dakwah Masyarakat)</b>, dengan pengiriman da’i diprioritaskan ke daerah-daerah yang sangat membutuhkan, seperti daerah terpencil dan daerah bencana yang sangat membutuhkan dukungan moril dan sentuhan-sentuhan dakwah, tidak sekadar kebutuhan materi saja.</li>
+ 	<li><b>Santunan da’i,</b> meliputi kafalah da’i dan santunan keluarga da’i.</li>
+ 	<li><b>Pembelajaran Al-Qur’an</b>, meliputi kegiatan belajar tarjamah Al Qur'an dengan metode <strong>Al Bayan</strong>, tahsin, dan baca tulis Al-Qur’an.</li>
+ 	<li><b>Penyelenggaraan kajian</b>, meliputi kegiatan-kegiatan seminar, tabligh akbar, dan bedah buku.</li>
+ 	<li><b>Pengembangan dakwah dan pendidikan</b>, melalui pelatihan da’i, pembuatan materi dakwah, penyebaran buku Islam, serta pendidikan da'i dan imam masjid di <strong>Akademi Al Qur'an FKAM </strong>Klaten.</li>
+</ol>
+<strong>Baitulmal FKAM</strong> merupakan lembaga nirlaba yang resmi dan legal, serta telah mendapatkan pengukuhan dari Kementerian Agama Republik Indonesia melalui Surat Keputusan Nomor DJ.III/392 Tahun 2016 sebagai Lembaga Amil Zakat.
+
+Kami mengajak segenap komponen masyarakat untuk bersama mewujudkan penyelenggaraan kegiatan dakwah dan pendidikan Islam, dengan penuh semangat kebersamaan berbagi dan peduli sesama.
+
+    </string>
+
+    <string name="tanggap_bencana">
+        
+        <strong>Program Tanggap Bencana Alam</strong>  ini bertujuan untuk memberikan pelayanan bagi masyarakat di daerah-daerah yang terkena bencana alam, dengan cara penggalangan dana dari masyarakat umum. untuk kemudian disalurkan ke masyarakat yang tertimpa bencana. Secara singkat, program tanggap bencana yang diselenggarakan oleh BaitulMal FKAM meliputi:
+<ol>
+ 	<li><b>Emergency respon</b>, yaitu pengiriman tim medis dan tim SAR ke daerah bencana.</li>
+ 	<li><b>Pembangunan Huntara</b>, dengan memberikan hunian sementara yang terbuat dari papan, agar lebih nyaman daripada harus tinggal di tenda-tenda darurat.</li>
+ 	<li><b>Bantuan logistik</b>, merupakan bagian dari tanggap darurat bencana mengingat logistik sebagai kebutuhan dasar.</li>
+ 	<li><b>Penangan psikososial</b>, yang dilaksanakan dalam rentang waktu yang panjang dengan tujuan untuk merehabilitasi mental dan memberikan sentuhan ruhani bagi korban bencana.</li>
+ 	<li><b>Pembangunan sarana umum</b>, bertujuan untuk memudahkan masyarakat korban bencana alam dalam memenuhi kebutuhan sarana umum.</li>
+ 	<li><b>Pengadaan kegiatan pendidikan dan  pelatihan relawan</b>, dengan bekerjasama dengan tim SAR FKAM yang mendelegasikan anggotanya untuk mengikuti pelatihan-pelatihan penanganan bencana.</li>
+</ol>
+<strong>Baitulmal FKAM</strong> merupakan lembaga nirlaba yang resmi dan legal, serta telah mendapatkan pengukuhan dari Kementerian Agama Republik Indonesia melalui Surat Keputusan Nomor DJ.III/392 Tahun 2016 sebagai Lembaga Amil Zakat.
+
+Kami mengajak segenap komponen masyarakat untuk bersama mewujudkan kesejahteraan dan penanganan korban dampak bencana, dengan penuh semangat kebersamaan berbagi dan peduli sesama.
+    </string>
+
+    <string name="sarana_ibadah">
+        
+        Kedudukan masjid sangat penting bagi umat Islam, sebagai sarana ibadah, menuntut ilmu, bahkan Rasulullah Saw menjadikannya sebagai pusat pemerintahan. Masjid juga menjadi sentral dakwah Islam, menjadi tolok ukur persatuan umat, dan sebagai tempat untuk membahas permasalahan yang ada di dalam masyarakat sehingga bisa dicari solusinya berdasarkan Al-Qur’an dan As-Sunnah. Masjid juga dapat difungsikan sebagai sarana pendidikan. Misalnya, Taman Pendidikan Al-Qur’an yang menanamkan dasar-dasar Islam putra-putri kita yang merupakan penerus estafet dakwah pada masa yang akan datang.
+
+Mengingat kedudukan masjid sangat strategis bagi umat Islam, maka BaitulMal FKAM mempunyai Program Pembangunan Sarana Ibadah, yakni meliputi:
+<ol>
+ 	<li><b>Pembangunan masjid dan program renovasi masjid</b>. Program ini diupayakan bekerjasama dengan lembaga donor ataupun dari masyarakat muslim secara umum.</li>
+ 	<li><b>Pengadaan kelengkapan masjid</b>. Program ini diupayakan ialah untuk memenuhi keperluan ibadah umat Islam. Untuk masjid-masjid jami’ atau masjid yang sering menjadi tempat persinggahan musafir adalah diutamakan.</li>
+</ol>
+    </string>
+
+
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_home"
+        android:checked="true"
+        android:icon="@drawable/ic_home"
+        android:title="@string/home"
+        android:iconTint="@color/selector_beranda"
+        />
+
+    <item
+        android:id="@+id/item_majalah"
+        android:icon="@drawable/ic_majalah"
+        android:title="@string/majalah"
+        android:iconTint="@color/selector_majalah"/>
+
+    <item
+        android:id="@+id/item_donasi"
+        android:icon="@drawable/ic_compose"
+        android:title="@string/program"
+        android:iconTint="@color/selector_donasi"/>
+
+    <item
+        android:id="@+id/item_layanan"
+        android:icon="@drawable/ic_layanan"
+        android:iconTint="@color/selector_layanan"
+        android:title="@string/layanan" />
+</menu>
